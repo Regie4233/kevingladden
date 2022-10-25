@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.mainContent{
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,1)), url(./images/img3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  outline-style: solid;
+  outline-width: 10px;
+  /* outline-color:maroon; */
+  margin-bottom: 20px;
+}
+
+body{
+  margin-top: 20px;
+  background-color:black;
+}
+
+.main{
+  padding-top: 30px;
+}
+.secondaryContent{
+  background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.7)), url(./images/img2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color:darkslategrey;
+  outline-style: solid;
+  outline-width: 10px;
+  /* outline-color : wheat; */
+  margin-top: 10px;
+  
+}
+
+.outlines{
+
+outline-style: double;
+outline-color: white;
+outline-color: khaki;
+
+}
+
