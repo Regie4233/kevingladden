@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kevingladden/static/css/main.ad5cd541.css",
+    "main.js": "/kevingladden/static/js/main.b7a7c5a8.js",
+    "static/media/logow.png": "/kevingladden/static/media/logow.e0a546de76b0090cd5a3.png",
+    "static/media/IMG_0455.jpg": "/kevingladden/static/media/IMG_0455.d8afab2378e69ec43bd7.jpg",
+    "static/media/Kebvstage1.png": "/kevingladden/static/media/Kebvstage1.43ad8bed7ea77d5e5348.png",
+    "static/media/kevedit1.png": "/kevingladden/static/media/kevedit1.81ab04e09fa53cc36fbe.png",
+    "static/media/img2.jpg": "/kevingladden/static/media/img2.c57a4e0fce859270a2bd.jpg",
+    "static/media/img3.jpg": "/kevingladden/static/media/img3.6dffa475a6eb9317c4ed.jpg",
+    "index.html": "/kevingladden/index.html",
+    "main.ad5cd541.css.map": "/kevingladden/static/css/main.ad5cd541.css.map",
+    "main.b7a7c5a8.js.map": "/kevingladden/static/js/main.b7a7c5a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5cd541.css",
+    "static/js/main.b7a7c5a8.js"
+  ]
+}
